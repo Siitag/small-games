@@ -1,0 +1,43 @@
+body {
+    overflow: hidden;
+}
+#ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: red;
+    border-radius: 50%;
+}
+#paddle {
+    position: absolute;
+    bottom: 0;
+    width: 225px;
+    height: 20px;
+    background: blue;
+}
+.brick {
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    background: green;
+ }
+ #bricks {
+     position: relative;
+     width: 100%;
+ }
+#scoreboard {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    background: lightgray;
+}
+#pauseMenu {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    background: lightgray;
+}
