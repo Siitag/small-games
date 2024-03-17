@@ -8,6 +8,9 @@ This is a simple game with simple logic and simple code. It is a good start for 
 ## 2. Chelsea Mystery
 This is a text game which doesnt require much skill to code but it was made to learn more about scripts and choices in a game.
 
+## 3. Axe Game
+This is a game built with the library raylib where the user has to dodge an axe bouncing up and down the screen and reach the finish line to win the game
+
 # Javascript
 
 # Araknoid
